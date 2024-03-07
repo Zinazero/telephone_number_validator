@@ -1,0 +1,1 @@
+# A simple JavaScript program to check if a string is a valid phone number using a regular expression. This program was produced as part of the JavaScript Algorithms and Data Structures course on freeCodeCamp.org. Created by Jacob Hexamer.
